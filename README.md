@@ -104,7 +104,7 @@ indicar a localização das vulnerabilidades no código;
 fornecer informações sobre os riscos identificados;
 gerar dados que possam ser utilizados na análise científica dos resultados.
 
-‧# ₊˚ ☁️⋅♡🧪 Pesquisa
+# ₊˚ ☁️⋅♡🧪 Pesquisa
 
 Este projeto está sendo desenvolvido como parte de uma proposta de iniciação científica, com foco na interseção entre:
 
