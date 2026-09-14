@@ -90,8 +90,11 @@ A primeira versão do projeto tem como objetivo estabelecer a estrutura inicial 
 Atualmente, o projeto está sendo desenvolvido para:
 
 📂 receber arquivos de código Python;
+
 📖 realizar a leitura do código;
+
 🌳 transformar o código em uma estrutura AST;
+
 🔎 preparar a análise automatizada de possíveis vulnerabilidades.
 
 # ⋆｡‧˚ʚ📊ɞ˚‧｡⋆ Resultados Esperados
@@ -99,9 +102,13 @@ Atualmente, o projeto está sendo desenvolvido para:
 Espera-se desenvolver uma ferramenta capaz de:
 
 identificar possíveis vulnerabilidades em código gerado por IA;
+
 classificar os problemas encontrados;
+
 indicar a localização das vulnerabilidades no código;
+
 fornecer informações sobre os riscos identificados;
+
 gerar dados que possam ser utilizados na análise científica dos resultados.
 
 # ₊˚ ☁️⋅♡🧪 Pesquisa
@@ -117,21 +124,33 @@ A pesquisa busca contribuir para a discussão sobre a segurança de códigos pro
 🚧 Em desenvolvimento
 
 Concluído
- Criação do repositório
- Estrutura inicial do projeto
- Primeiro protótipo de leitura de código
+ Criação do repositório;
+
+ Estrutura inicial do projeto;
+
+ Primeiro protótipo de leitura de código;
+
 Em desenvolvimento
- Análise utilizando AST
- Primeiras regras de detecção
- Identificação de vulnerabilidades
- Sistema de classificação de severidade
- Geração de relatórios
+ Análise utilizando AST;
+
+ Primeiras regras de detecção;
+
+ Identificação de vulnerabilidades;
+
+ Sistema de classificação de severidade;
+
+ Geração de relatórios;
+
 Futuramente
- Análise de códigos gerados por diferentes ferramentas de IA
- Comparação dos resultados
- Métricas de detecção
- Testes automatizados
- Interface para visualização dos resultados
+ Análise de códigos gerados por diferentes ferramentas de IA;
+
+ Comparação dos resultados;
+
+ Métricas de detecção;
+
+ Testes automatizados;
+
+ Interface para visualização dos resultados;
 
 # ⋆｡°✩📚 Referências ✩°｡⋆
 
